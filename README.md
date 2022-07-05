@@ -9,3 +9,7 @@ pip install face_recognition
 
 I am using $python3 filename.py  
 to activate the python file
+
+
+if you are running in Linux you'll need to give permissions with chmod +x filename.py
+
